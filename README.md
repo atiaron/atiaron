@@ -1,22 +1,18 @@
-# Welcome to My GitHub Profile 👋
+# Hi 👋, I'm Ron
 
-## About Me
-I am a **Test Automation Engineer** specializing in developing robust automation frameworks and improving software quality. My focus is on creating reliable, maintainable, and efficient solutions for testing.
+Passionate about QA Automation and ready to make an impact.
 
-## Areas of Expertise
-- **Programming**: Python  
-- **Test Automation**: Selenium, Pytest  
-- **Reports**: Allure, HTML Reports  
-- **Data Management**: CSV, JSON  
+- 🛠 Currently working on mastering **Selenium, Pytest, and API Testing**.
+- 🌱 Diving into **Python**, **Node.js**, and **JavaScript** for advanced automation.
+- 🤝 Looking to collaborate on cool automation projects.
+- 💬 Ask me about **testing frameworks** or anything automation related.
+- 📧 Reach me at atiaron0@gmail.com 
+Let's connect!
 
-## Projects I've Worked On
-- **Web Testing Framework**: Built a Selenium-based framework for automated testing of web applications, including support for data-driven testing with external CSV and JSON files.
-- **API Testing Automation**: Automated REST API testing using Python's `requests` library, ensuring coverage of key functionalities.
-- **CI/CD Integration**: Created Jenkins pipelines to integrate automated testing into the deployment process for seamless delivery.
+---
 
-## Current Focus
-- Learning advanced techniques in automation reporting and improving framework scalability.
-- Expanding expertise in CI/CD pipelines and Docker for test automation.
+### Some Tools I Use and Learn
 
-## Let's Connect
-- **Email**: your-email@gmail.com  
+![Python](https://img.shields.io/badge/-Python-blue) ![Selenium](https://img.shields.io/badge/-Selenium-brightgreen) ![Pytest](https://img.shields.io/badge/-Pytest-yellow) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+Connect with me and let's build some awesome automation tools together!
